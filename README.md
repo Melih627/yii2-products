@@ -206,4 +206,10 @@ http://advanced/backend/web/index.php?r=site%2Flogin
 ***İlk kayıt olan kullanıcının user tablosundaki id'si 1 olduğu için 1 sayılır.Yani idsi 1 olan kullanıcı admindir.Sitede sol üstte bulunan admin özelliklerini kullanabilir.Diğer kullanıcılar bu sekmeyi kullanamaz.***
 
 ## Yii2 Products Modülü
- 
+ ürünler sekmesinde bütün ürünleri gösterir.
+ Admin panelinden yeni bir ürün oluşturmanıza olanak sağlar.
+ Sepete ürün ekleyebilmenizi sağlar.
+ Tablo ilişkileri;
+ category -> one to many
+ review -> one to many
+ shopping -> many to many
