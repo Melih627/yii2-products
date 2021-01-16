@@ -1,5 +1,21 @@
 # yii2-products
 
+## Yii2 KOU E-Ticaret Sitesi
+
+Projeyi bir grup olarak 4 arkadaş yaptık.
+
+Modüller:
+
+180202052-Melih Çalışkan-> Products=> Ürünleri listeleme,Sepete Ekleme,Admin için Ürün Ekleme sekmesi
+
+180202039-Onur Okyay-> Shopping=>Sepetteki ürünleri listeleme,Satın alma,Geçmiş satın alımları gösterme
+
+180202105-Sabri Kusay Gülmez-> Category=> Kategori listeleme,Seçilen kategoriye göre ürünleri listeleme,Admin için Kategori Ekleme
+
+180202026-Imran Kucur-> Reviews=>Her bir ürün için yorum ekleme ve puan verme,Seçilen ürüne yapılan tüm yorumları gösterme
+
+User=> Kayıt-Giriş,Hesabım sekmesi
+
 ## Kurulum
 Vagrantı kaldırdıktan sonra ssh ile bağlanın ve terminalde advanced içine girdikten sonra(cd /var/www/advanced) aşağıdakileri yazınız.
 
@@ -189,5 +205,5 @@ http://advanced/backend/web/index.php?r=site%2Flogin
 
 ***İlk kayıt olan kullanıcının user tablosundaki id'si 1 olduğu için 1 sayılır.Yani idsi 1 olan kullanıcı admindir.Sitede sol üstte bulunan admin özelliklerini kullanabilir.Diğer kullanıcılar bu sekmeyi kullanamaz.***
 
-
+## Yii2 Shopping Modülü
  
