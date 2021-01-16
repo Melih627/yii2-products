@@ -1,11 +1,11 @@
 <?php
 
-namespace Melih627\products\models;
+namespace melih058\products\models;
 
-use onurokkyay\Shopping\models\shoppingcart;
+use onurokkyay\shopping\models\shoppingcart;
 use yii\base\Model;
 use yii\data\ActiveDataProvider;
-use Melih627\products\models\Products;
+use melih058\products\models\Products;
 
 /**
  * ProductsSearch represents the model behind the search form of `backend\Modules\products\models\Products`.

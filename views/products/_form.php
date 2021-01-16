@@ -7,7 +7,7 @@ use Melih627\products\models;
 ;
 
 /* @var $this yii\web\View */
-/* @var $model Melih627\products\models\Products */
+/* @var $model melih058\products\models\Products */
 /* @var $form yii\widgets\ActiveForm */
 /* @var $categories sabsay03\categories\models\Categories */
 ?>

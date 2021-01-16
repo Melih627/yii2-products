@@ -1,6 +1,6 @@
 <?php
 
-namespace Melih627\products;
+namespace melih058\products;
 
 /**
  * products module definition class
@@ -10,7 +10,7 @@ class Module extends \yii\base\Module
     /**
      * {@inheritdoc}
      */
-    public $controllerNamespace = 'Melih627\products\controllers';
+    public $controllerNamespace = 'melih058\products\controllers';
 
     /**
      * {@inheritdoc}

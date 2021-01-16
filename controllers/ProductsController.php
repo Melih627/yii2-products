@@ -1,11 +1,11 @@
 <?php
 
-namespace Melih627\products\controllers;
+namespace melih058\products\controllers;
 
 use sabsay03\categories\models\Categories;
 use Yii;
-use Melih627\products\models\Products;
-use Melih627\products\models\ProductsSearch;
+use melih058\products\models\Products;
+use melih058\products\models\ProductsSearch;
 use yii\web\Controller;
 use yii\web\NotFoundHttpException;
 use yii\filters\VerbFilter;

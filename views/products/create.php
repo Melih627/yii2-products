@@ -4,7 +4,7 @@ use yii\helpers\Html;
 use  sabsay03\categories\models\Categories;
 
 /* @var $this yii\web\View */
-/* @var $model Melih627\products\models\Products */
+/* @var $model melih058\products\models\Products */
 
 
 $this->title = 'Create Products';

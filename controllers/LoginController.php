@@ -1,6 +1,6 @@
 <?php
 
-namespace Melih627\products\controllers;
+namespace melih058\products\controllers;
 
 use yii\web\Controller;
 

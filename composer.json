@@ -1,11 +1,11 @@
 {
-  "name": "Melih627/yii2-products",
+  "name": "melih058/yii2-products",
   "description": "Yii2 Content Module",
   "type": "yii2-extension",
   "license": "MIT",
   "authors": [
     {
-      "name": "Melih627",
+      "name": "melih058",
       "email": "melih_caliskan58@hotmail.com",
       "role": "Developer"
     }
@@ -19,12 +19,12 @@
   },
   "autoload": {
     "psr-4": {
-      "Melih627\\products\\": "./"
+      "melih058\\products\\": "./"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "Melih627\\products\\tests\\": "tests"
+      "melih058\\products\\tests\\": "tests"
     }
   },
   "repositories": [

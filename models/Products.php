@@ -1,6 +1,6 @@
 <?php
 
-namespace Melih627\products\models;
+namespace melih058\products\models;
 
 use Yii;
 use sabsay03\categories\models\Categories;

@@ -5,11 +5,11 @@ use yii\widgets\DetailView;
 use yii\widgets\ListView;
 
 /* @var $this yii\web\View */
-/* @var $model Melih627\products\models\Products */
+/* @var $model melih058\products\models\Products */
 /* @var $Categories sabsay03\categories\models\Categories */
 
 
-$product=new Melih627\products\models\Products();
+$product=new melih058\products\models\Products();
 $product=$model;
 $product->save();
 \yii\web\YiiAsset::register($this);
