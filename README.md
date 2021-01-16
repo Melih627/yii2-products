@@ -1,6 +1,4 @@
 # yii2-products
-# yii2-shopping
-Yii2 shopping Module
 
 ## Kurulum
 Vagrantı kaldırdıktan sonra ssh ile bağlanın ve terminalde advanced içine girdikten sonra(cd /var/www/advanced) aşağıdakileri yazınız.
